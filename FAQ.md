@@ -120,3 +120,6 @@ It is defined in `lib/run/src/Obelisk/Run.hs`:
         * runs the frontend (*on* the server), to produce pre-rendered pages,
         * starts the JSaddle web-socket,
         * “falls back” to proxying the backend (`fallbackProxy`).
+
+Test adding to Git.
+29292
