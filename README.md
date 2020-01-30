@@ -258,7 +258,7 @@ Until Obelisk offers a `ob deploy` equivalent for mobile apps, you are recommend
 Development on iOS requires a computer running macOS and an iOS developer account.
 Your account must also belong to an Apple Developer Team, if you want to access developer portal links (otherwise they'll redirect to your account page).
 
-##### iPhone
+##### iPhoneX
 1. Connect the iPhone on which you'd like to run builds - this will open up iTunes.
 1. Click accept to authorize on both the computer and the iPhone.
 
